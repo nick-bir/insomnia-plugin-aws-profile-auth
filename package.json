@@ -1,9 +1,13 @@
 {
   "name": "insomnia-plugin-aws-profile-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "insomnia": {
     "name": "aws-profile-auth",
     "description": "Insomnia plugin to use AWS profile auth"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nick-bir/insomnia-plugin-aws-profile-auth.git"
   },
   "scripts": {
     "build": "tsc",
